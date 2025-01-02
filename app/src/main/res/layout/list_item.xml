@@ -24,6 +24,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
+        android:visibility="gone"
         android:id="@+id/descTV"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

@@ -3,4 +3,12 @@
     <string name="dressing_room">Dressing room</string>
     <string name="go_to_dressing_room">Go to dressing room</string>
     <string name="exit">Exit</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_description">Enter description</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="name">Name: %s</string>
+    <string name="description">Description: %s</string>
+    <string name="edit_cloth_info">Edit cloth info</string>
+    <string name="update">Update</string>
+    <string name="fill_all_fields">Fill all fields</string>
 </resources>
